@@ -25,20 +25,16 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+![Desktop View](https://user-images.githubusercontent.com/79463508/121902730-45511c80-cd30-11eb-99de-8d842cce0d96.png)
+![Tablet View](https://user-images.githubusercontent.com/79463508/121903844-5fd7c580-cd31-11eb-93d3-ea2dd736464e.png)
+![Mobile View](https://user-images.githubusercontent.com/79463508/121904178-a3caca80-cd31-11eb-9c03-0abf87d01ad2.png)
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://nervous-hamilton-178ce9.netlify.app/)
 
 ## My process
 
